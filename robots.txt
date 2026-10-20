@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fadi-coiffure.vercel.app/sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "name": "fadi-coiffure",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Site vitrine Fadi Coiffure — Barber & Coiffure Homme, Sarcelles",
+  "scripts": {
+    "build:css": "node scripts/build-css.mjs"
+  }
+}

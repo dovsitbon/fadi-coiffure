@@ -1,0 +1,7 @@
+# Fadi Coiffure
+
+> Barber shop et coiffure homme à Sarcelles (95200), 1 Place de la Libération. Téléphone : 06 31 49 40 60.
+
+- Prestations : dégradé américain, dégradé à blanc, coupe ciseaux, lissage / crépon, taille de barbe sculptée, barbe à la serviette chaude, rasage traditionnel au coupe-chou, soin du visage, combo VIP coupe + barbe + soin.
+- Réservation : formulaire en ligne qui ouvre WhatsApp avec la demande pré-remplie, ou par téléphone.
+- Site : https://fadi-coiffure.vercel.app/
